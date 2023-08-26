@@ -5,7 +5,7 @@
 <p align="center">
   swe intern at <b>Fidelity</b> & <b>Thermo Fisher</b>, math researcher at <b>Harvard</b>
   <br>greatly passionate for creative problem solving, education, and digital finance
-  <br> experience with <b>full stack development</b>, <b>systems consulting</b>, and <b>machine learning</b>
+  <br> experience with <b>full stack development</b>, <b>distributed systems</b>, and <b>machine learning</b>
   <br> studying computer science and applied mathematics at <b>Brown University</b>
 </p>
 
