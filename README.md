@@ -4,7 +4,7 @@
 
 <p align="center">
   prev swe intern at <b>Fidelity</b>, <b>Jara</b> & <b>Thermo Fisher</b>, Head TA for <b>AI/CV</b>
-  <br>greatly passionate for creative problem solving, education, and digital finance
+  <br>greatly passionate for creative problem solving, education, and technology
   <br> experience with <b>full stack development</b>, <b>distributed systems</b>, and <b>machine learning</b>
   <br> studying computer science and applied mathematics at <b>Brown University</b>
 </p>
